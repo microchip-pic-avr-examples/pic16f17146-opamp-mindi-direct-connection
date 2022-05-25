@@ -1,7 +1,7 @@
 ![Microchip logo](images/microchip.png)
 # Op-amp Mindi simulation for PIC16F17146 product family
 
-**Note : Currently this repository contains mindi model of PIC18-Q41 family's OPAMP module. Mindi model of PIC16F17146 family's OPAMP module will be available soon.**
+**Note : Currently this repository contains Mindi model of PIC18-Q41 family's OPAMP module. Mindi model of PIC16F17146 family's OPAMP module will be available soon.**
 
 This guide will get you up and running with simulating the analog OPAMP module in PIC16F17146 family devices using the Mindi simulation tool. For more information about getting started with and using the MPLAB Mindi Analog Simulator please refer to the following resources:
 
