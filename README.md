@@ -5,7 +5,7 @@
 
 This guide will get you up and running with simulating the analog OPAMP module in PIC16F17146 family devices using the Mindi simulation tool. For more information about getting started with and using the MPLAB Mindi Analog Simulator please refer to the following resources:
 
-- [Using the MPLAB Mindi Analog Simulator with the 8-Bit Operational Amplifier Module Technical Brief](www.microchip.com/DS90003293)
+- [Using the MPLAB Mindi Analog Simulator with the 8-Bit Operational Amplifier Module Technical Brief](https://www.microchip.com/DS90003293)
 - [Microchip Developer - Introduction to MPLAB Mindi Analog Simulator](www.microchipdeveloper.com/mindi:mindi-analog-simulator-introduction)
 - [Getting Started with the MPLAB Mindi Analog Simulator Document](www.microchip.com/DS50002564)
 
